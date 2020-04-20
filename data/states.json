@@ -1,0 +1,261 @@
+[
+  {
+    "abbr": "AB",
+    "name": "Abia",
+    "capital": "Umuahia",
+    "lat": "5.532003041",
+    "long": "7.486002487"
+  },
+  {
+    "abbr": "AD",
+    "name": "Adamawa",
+    "capital": "Yola",
+    "lat": "10.2703408",
+    "long": "13.2700321"
+  },
+  {
+    "abbr": "AK",
+    "name": "Akwa Ibom",
+    "capital": "Uyo",
+    "lat": "5.007996056",
+    "long": "7.849998524"
+  },
+  {
+    "abbr": "AN",
+    "name": "Anambra",
+    "capital": "Awka",
+    "lat": "6.210433572",
+    "long": "7.06999711"
+  },
+  {
+    "abbr": "BA",
+    "name": "Bauchi",
+    "capital": "Bauchi",
+    "lat": "11.68040977",
+    "long": "10.19001339"
+  },
+  {
+    "abbr": "BY",
+    "name": "Bayelsa",
+    "capital": "Yenagoa",
+    "lat": "4.749997",
+    "long": "6.083333"
+  },
+  {
+    "abbr": "BE",
+    "name": "Benue",
+    "capital": "Makurdi",
+    "lat": "7.190399596",
+    "long": "8.129984089"
+  },
+  {
+    "abbr": "BO",
+    "name": "Borno",
+    "capital": "Maiduguiri",
+    "lat": "10.62042279",
+    "long": "10.62042279"
+  },
+  {
+    "abbr": "CR",
+    "name": "Cross River",
+    "capital": "Calabar",
+    "lat": "4.960406513",
+    "long": "8.330023558"
+  },
+  {
+    "abbr": "DE",
+    "name": "Delta",
+    "capital": "Asaba",
+    "lat": "5.890427265",
+    "long": "5.680004434"
+  },
+  {
+    "abbr": "EB",
+    "name": "Ebonyi",
+    "capital": "Abakaliki",
+    "lat": "6.25000",
+    "long": "8.08333"
+  },
+  {
+    "abbr": "ED",
+    "name": "Edo",
+    "capital": "Benin City",
+    "lat": "6.340477314",
+    "long": "5.620008096"
+  },
+  {
+    "abbr": "EK",
+    "name": "Ekiti",
+    "capital": "Ado-Ekiti",
+    "lat": "7.630372741",
+    "long": "5.219980834"
+  },
+  {
+    "abbr": "EN",
+    "name": "Enugu",
+    "capital": "Enugu",
+    "lat": "6.867034321",
+    "long": "7.383362995"
+  },
+  {
+    "abbr": "FC",
+    "name": "Federal Capital Territory",
+    "capital": "Abuja",
+    "lat": "9.083333149",
+    "long": "7.533328002"
+  },
+  {
+    "abbr": "GO",
+    "name": "Gombe",
+    "capital": "Gombe",
+    "lat": "10.29044293",
+    "long": "11.16995357"
+  },
+  {
+    "abbr": "IM",
+    "name": "Imo",
+    "capital": "Owerri",
+    "lat": "5.492997053",
+    "long": "7.026003588"
+  },
+  {
+    "abbr": "JI",
+    "name": "Jigawa",
+    "capital": "Dutse",
+    "lat": "11.7991891",
+    "long": "9.350334607"
+  },
+  {
+    "abbr": "KD",
+    "name": "Kaduna",
+    "capital": "Kaduna",
+    "lat": "11.0799813",
+    "long": "7.710009724"
+  },
+  {
+    "abbr": "KN",
+    "name": "Kano",
+    "capital": "Kano",
+    "lat": "11.99997683",
+    "long": "8.5200378"
+  },
+  {
+    "abbr": "KT",
+    "name": "Kastina",
+    "capital": "Kastina",
+    "lat": "11.5203937",
+    "long": "7.320007689"
+  },
+  {
+    "abbr": "KE",
+    "name": "Kebbi",
+    "capital": "Birnin Kebbi",
+    "lat": "12.45041445",
+    "long": "4.199939737"
+  },
+  {
+    "abbr": "KO",
+    "name": "Kogi",
+    "capital": "Lokoja",
+    "lat": "7.800388203",
+    "long": "6.739939737"
+  },
+  {
+    "abbr": "KW",
+    "name": "Kwara",
+    "capital": "Ilorin",
+    "lat": "8.490010192",
+    "long": "4.549995889"
+  },
+  {
+    "abbr": "LA",
+    "name": "Lagos",
+    "capital": "Ikeja",
+    "lat": "6.443261653",
+    "long": "3.391531071"
+  },
+  {
+    "abbr": "NA",
+    "name": "Nasarawa",
+    "capital": "Lafia",
+    "lat": "8.490423603",
+    "long": "8.5200378"
+  },
+  {
+    "abbr": "NI",
+    "name": "Niger",
+    "capital": "Minna",
+    "lat": "10.4003587",
+    "long": "5.469939737"
+  },
+  {
+    "abbr": "OG",
+    "name": "Ogun",
+    "capital": "Abeokuta",
+    "lat": "7.160427265",
+    "long": "3.350017455"
+  },
+  {
+    "abbr": "ON",
+    "name": "Ondo",
+    "capital": "Akure",
+    "lat": "7.250395934",
+    "long": "5.199982054"
+  },
+  {
+    "abbr": "OS",
+    "name": "Osun",
+    "capital": "Osogbo",
+    "lat": "7.629959329",
+    "long": "4.179992634"
+  },
+  {
+    "abbr": "OY",
+    "name": "Oyo",
+    "capital": "Ibadan",
+    "lat": "7.970016092",
+    "long": "3.590002806"
+  },
+  {
+    "abbr": "PL",
+    "name": "Plateau",
+    "capital": "Jos",
+    "lat": "9.929973978",
+    "long": "8.890041055"
+  },
+  {
+    "abbr": "RI",
+    "name": "Rivers",
+    "capital": "Port Harcourt",
+    "lat": "4.810002257",
+    "long": "7.010000772"
+  },
+  {
+    "abbr": "SO",
+    "name": "Sokoto",
+    "capital": "Sokoto",
+    "lat": "13.06001548",
+    "long": "5.240031289"
+  },
+  {
+    "abbr": "TA",
+    "name": "Taraba",
+    "capital": "Jalingo",
+    "lat": "7.870409769",
+    "long": "9.780012572"
+  },
+  {
+    "abbr": "YO",
+    "name": "Yobe",
+    "capital": "Damaturu",
+    "lat": "11.74899608",
+    "long": "11.96600457"
+  },
+  {
+    "abbr": "ZA",
+    "name": "Zamfara",
+    "capital": "Gusau",
+    "lat": "12.1704057",
+    "long": "6.659996296"
+  }
+]
