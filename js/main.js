@@ -9,7 +9,11 @@ const searchStates = async (searchText) => {
   // Get matches to current text input
   let matches = states.filter((state) => {
     const regex = new RegExp(`^${searchText}`, "gi");
-    return state.name.match(regex) || state.abbr.match(regex);
+    return (
+      state.name.match(regex) ||
+      state.capital.match(regex) ||
+      state.abbr.match(regex)
+    );
     // gi - global-case-insensitive flag, so it can match whether it's upper or lowercase
     // the caret symbol (^) stops it from just matching any letter
     // whether it starts with it, or is in the middle, or wherever
@@ -21,8 +25,6 @@ const searchStates = async (searchText) => {
   }
 
   outputHtml(matches);
-
-  console.log(matches);
 };
 
 // Show results in HTML
@@ -43,7 +45,6 @@ const outputHtml = (matches) => {
       </div>`
       )
       .join("");
-    console.log(matchList);
 
     matchList.innerHTML = html;
   }
